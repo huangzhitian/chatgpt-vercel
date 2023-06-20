@@ -71,6 +71,7 @@ const Configuration: FC<ConfigurationProps> = ({
             <Input
               className="w-full"
               type="password"
+              placeholder="可以不填"
               autoComplete="off"
               value={configs.password}
               onChange={(e) =>
@@ -83,6 +84,7 @@ const Configuration: FC<ConfigurationProps> = ({
             <Input
               className="w-full"
               type="password"
+              placeholder="请输入您的OpenAI Key"
               autoComplete="off"
               value={configs.openAIApiKey}
               onChange={(e) =>
