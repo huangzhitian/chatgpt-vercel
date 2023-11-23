@@ -63,7 +63,7 @@
 ### 1. 创建项目
 从 github fork 的仓库（推荐）或者直接从下面的 **Deploy** 按钮创建一个 Vercel 项目。
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/GPTGenius/chatgpt-vercel&env=OPENAI_API_KEY&env=LANGUAGE)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/huangzhitian/chatgpt-vercel&env=OPENAI_API_KEY&env=LANGUAGE)
 
 ### 2. 设置 OPENAI_API_KEY
 有三种方式设置你的 OpenAI API Key:
